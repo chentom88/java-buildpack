@@ -24,7 +24,7 @@ jre:
   repository_root: ""
 memory_calculator:
   version: 2.+
-  repository_root: ! '{default.repository.root}/memory-calculator/{platform}/{architecture}'
+  repository_root: ! 'http://192.168.50.1:8888'
   stack_threads:
   memory_sizes:
     heap:
